@@ -79,12 +79,16 @@
             "id": "32d851f2c5825f79",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Time Value of Money.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tax Planning.md",
+                "file": "Time Value of Money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tax Planning.md",
+                "file": "Time Value of Money.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tax Planning.md"
+                "file": "Time Value of Money.md"
               }
             }
           },
@@ -250,10 +254,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bd937d1758c45727",
+  "active": "32d851f2c5825f79",
   "lastOpenFiles": [
-    "Collective Investment Schemes.md",
+    "FTX2000S.md",
+    "Time Value of Money.md",
     "UCT.md",
+    "Tax Planning.md",
+    "Collective Investment Schemes.md",
     "4th Year.md",
     "Books.md",
     "readme.md",
@@ -262,9 +269,7 @@
     "C programming.md",
     "EEE3090F.md",
     "EEE3094S.md",
-    "FTX2000S.md",
     "Retirement and Estate Planning.md",
-    "Tax Planning.md",
     "EEE3099S.md",
     "Block diagrams.md",
     "FTX2000S/CGT_calc.png",
@@ -274,7 +279,6 @@
     "Residential Property.md",
     "Investment Planning.md",
     "Journal.md",
-    "Time Value of Money.md",
     "FTX2000S/10_year_mortgage.png",
     "FTX2000S/mortgage_variables.png",
     "FTX2000S/diversification_vs_risk.png",
