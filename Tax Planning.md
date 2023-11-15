@@ -8,12 +8,12 @@
 - collected by business on behalf of the state:
 	- Value Added Tax (VAT AT 15 %) (VAT OUTPUT AND VAT INPUT) 
 	- Petrol
-	- Sin Taxes (Alcohol and Tobacco)
+	- Sin Taxes (Alcohol and Tobacco) - Excise
 	- Transfer duties on property sales
 	- Import duties
 # Difference between Income and Capital
 - Taxes affecting individuals DIRECTLY are Income tax and Capital Gains Tax (CGT).
-- Capital gains or losses seen to be gains or losses on disposal of assets such as house, car or shares provided the seller does not make a living from it.
+- Capital gains or losses seen to be gains or losses on disposal of assets provided the seller does not make a living from it.
 - These transactions are called Capital transactions
 - Distinction sale of shares –
 	- Keep it for 3 years DEEMED CGT
@@ -110,9 +110,7 @@ Physical presence test (day test or time rule)
 	- Issues with cars - split between private & business use – logbooks accurate and up to date books must be maintained
 - Other allowances
 	- Entertainment, allowances for overseas business travel
-## Capital Gains
-Done already
-## Tax exemptions (Section 10 (1) of Income Tax Act No.58 of 1962)
+0## Tax exemptions (Section 10 (1) of Income Tax Act No.58 of 1962)
 - Reduce taxable income & hence tax liability
 - This income is tax free but must be included in Gross income
 - Interest up to R23 800 (2018/2019, 2022/2023 & 2023/2024 tax years) Section 10 (1) (i)
