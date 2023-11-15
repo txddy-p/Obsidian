@@ -30,16 +30,10 @@
 - Business however determine their own financial year
 - The Tax Cycle:
 	- At the end of the year registered tax payer required by law to submit a tax return either manually (22 October 2023) or electronically (16 November 2023)
-	- Use a standard form – detailing all forms of income (taxable and non-taxable) and deductions claimed
-	- After receiving the tax return - SARS calculates the tax liability and sends out an Assessment notice
-	- Informing the taxpayer whether he owes SARS or not or and date to settle
-	- New system introduced this year Pre-assessed – agree with the net tax liability calculated by SARS or not.
 - 2 Classes of individual tax payers
 	- Non-Provisional and Provisional
-- Cycle is different - `NON-PROVISIONAL`
+- `NON-PROVISIONAL`
 	- Non-provisional taxpayers pay tax on a weekly / monthly basis from wages and salaries
-	- Employers are required by law to deduct Standard Income Tax On Employees (SITE) and Paye-As-You-Earn (PAYE)
-	- Computerised Tax tables & packages make it easier and more accurate
 	- Non-provisional complete one tax return / assessment for the year
 - `PROVISIONAL`
 	- Provisional taxpayers DO NOT pay tax on a weekly / monthly basis OR regular basis
@@ -52,7 +46,7 @@
 - The second payment has a two (2) tier system depending on the taxpayer’s taxable income:
 - Actual taxable income of R1 million or less:
 - To avoid any penalty the basic amount may be used. If a lower estimate is used, this must be within 90% of the taxable income finally assessed.
-- Actual taxable income more than R1 million:
+- ##### Actual taxable income more than R1 million:
 - To avoid any penalty the estimate amount must be 80% of the taxable income excluding retirement fund lump sums, finally assessed.
 - If Requirements are not met, a penalty of 20% is levied on the difference between the estimated tax and 90% of the Actual tax (where the taxable income is R1 million or less), or 80% of the Actual tax (where the taxable income exceeds R1million).
 # Capital Gains Tax (CGT) (introduced in 2001)
@@ -66,16 +60,13 @@ $$1996 – \text{R}130 000 \text{ }\hspace{10mm} 1 \text{ Oct 2001} – \text{R}
 - Capital Gain would be R1 800 000 – 420 000 = R1 380 000
 - Exempt R2m if Primary residence 16
 ## Disposal exempt from CGT
-- Most important exclusion is primary residence
-- If primary residence is sold for less than R2 million no CGT
-- If primary residence is sold for more than R2m then 1st R2m is CGT free
+- Most important exclusion is `primary residence`
+- If primary residence, $1^{st}$ R2 million is CGT free
 - ONLY APPLICABLE TO INDIVIDUALS (NATURAL PERSONS)
 - Assets for personal use are exempt from CGT (cars, furniture, electronics & jewellery)
 - Exceptions are shares and gold coins
 - Exemption disposals are lump sums received from pensions, provident & annuities
 - Annual exclusion for individuals is R40 000 (2020: R30 000)
-## Calculating the amount subject to CGT
-![[CGT_calc.png]]
 ## Trading versus non trading assets
 - Assets that are bought and sold on a regular basis considered to be Trading assets therefore
 	- All profits are included in taxable income and taxed at standard rates
