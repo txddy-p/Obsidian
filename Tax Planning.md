@@ -83,8 +83,8 @@ $$1996 – \text{R}130 000 \text{ }\hspace{10mm} 1 \text{ Oct 2001} – \text{R}
 6. Apply tax rates to the taxable income obtained
 7. Subtract applicable tax rebates (Primary and Medical) to determine final tax liability
 8. Subtract 6 from Employees Tax Paid already to determine:
-	1. liability (7 > Tax paid) – You owe SARS (a liability)
-	2. or refund (7 < Tax paid) – SARS owes you (an asset)
+	1. liability (6 > Tax paid) – You owe SARS (a liability)
+	2. or refund (6 < Tax paid) – SARS owes you (an asset)
 ## Determine total (Gross) income
 Physical presence test (day test or time rule)
 - Applicable to people considered to be SA residents for tax purposes
@@ -101,7 +101,7 @@ Physical presence test (day test or time rule)
 	- Issues with cars - split between private & business use – logbooks accurate and up to date books must be maintained
 - Other allowances
 	- Entertainment, allowances for overseas business travel
-0## Tax exemptions (Section 10 (1) of Income Tax Act No.58 of 1962)
+## Tax exemptions (Section 10 (1) of Income Tax Act No.58 of 1962)
 - Reduce taxable income & hence tax liability
 - This income is tax free but must be included in Gross income
 - Interest up to R23 800 (2018/2019, 2022/2023 & 2023/2024 tax years) Section 10 (1) (i)
@@ -115,8 +115,6 @@ Physical presence test (day test or time rule)
 - Employed can deduct Pension Fund contributions and Retirement Annuities Fund and are capped.
 	- Limited to 27.5% of the greater of Retirement Funding Remuneration or Taxable income.
 	- Employer Contributions are taxed as a fringe benefit in the employees hands
-## Applying the tax rate to taxable income
-See the tables that are adjusted each year
 ## Tax credits and rebates
 - 2023/24 Tax year
 - Medical aid contributions – R364 (2023:R347) per primary member and dependant
@@ -125,7 +123,9 @@ See the tables that are adjusted each year
 ### Over 65 years
 - Can claim a tax credit of 33.3% of contributions paid to medical scheme - if it exceeds 3 times the medical fund contribution credit + 33.3% of medical expenses NOT CLAIMED FROM FUND
 ### Under 65 years
-- Claim a medical expense tax credit of 25% of contributions - if it exceeds 4 times the medical fund contributions credit + qualifying medical expenses if it exceeds 7.5% of taxpayer’s taxable income.
+- Claim a medical expense tax credit of 25% of contributions 
+	- if it exceeds 4 times the medical fund contributions credit + qualifying medical expenses 
+	- if it exceeds 7.5% of taxpayer’s taxable income.
 - Formula is as follows: Medical aid contributions – (Medical scheme fees tax credit x 4) + other qualifying medical expenses exceeds 7.5% of taxable income divided by factor of 4 (or multiply by 25%).
 - Assist taxpayers with low incomes and high medical expenses
 ## S6B – Rebate calculation
@@ -141,3 +141,55 @@ See the tables that are adjusted each year
 ||Calculate the excess of Step 4 over step 5|R1 025|
 |||$\times25\%$|
 ||$\textbf{S6B Rebate}$|$\textbf{R256.25}$|
+
+# Tax liability calculations
+|   |   |   |   |
+|---|---|---|---|
+|STEP 1.|GROSS INCOME|||
+||Salary|||
+||Services rendered|||
+||Rent income|||
+||Dividends|||
+||Interest income|||
+||Scholarships and Bursaries|||
+||Commission|||
+||Royalties|||
+|||||
+|STEP 2.|LESS: EXEMPT INCOME (Section 10 (1))|||
+||Interest – local (sec10 (i): Under 65 years|23,800||
+||Over 65 years|34,500||
+||Dividends (sec10 (k)|All||
+||Scholarships and Bursaries|||
+|||||
+|Step 3.|LESS: ALLOWABLE DEDUCTIONS (Section 11)|||
+||Legal expenses|||
+||Wear and tear allowances|||
+||Bad debts allowances|||
+||Pension fund contributions|||
+||Retirement fund contributions|||
+||Limited to the lesser of: 27.5 % of taxable income  <br>27.5% of remuneration and R350 000|||
+||Taxable income before Capital Gains|||
+|Step 4.|ADD: Capital gains – 26A|||
+||Taxable income before Donations|||
+|Step 5.|LESS: Donations – S18A Public Benefit Organisation(PBO)|||
+||TAXABLE INCOME|||
+|Step 6.|NORMAL TAXES PAYABLE(PER TAX TABLES)|||
+|Step 7.|LESS: REBATES|||
+||Primary rebates – Under 65 years|||
+||Secondary rebates – Over 65 years|||
+||Medical aid rebate – S6A|||
+||Medical expenses rebate – S6B(see formula)|||
+||Tax payable|||
+|Step 8.|Less: Taxes previously paid by the taxpayer|||
+||Tax liability owing to SARS / Owed by SARS|||
+
+|   |
+|---|
+|Step 1. Determine total Gross income (including Exempt income)|
+|Step 2. Deduct income that is tax-Exempt (not taxable) (Section 10)|
+|Step 3. Deduct allowable Tax Deductions (items that reduce the tax liability) (Section 11)|
+|Step 4. Add all taxable Capital gains after applying the Inclusion rate|
+|Step 5. Deduct S18A Donations|
+|Step 6. Apply tax rates to the Taxable income obtained|
+|Step 7. Deduct applicable Tax rebates (Primary and Medical)|
+|Step 8. Subtract Employees tax already paid from Step 7|
