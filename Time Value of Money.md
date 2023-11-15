@@ -7,7 +7,6 @@ To make the right investment decision, `cash flows` occurring `at different time
 - `Future value technique`: Uses `compounding` to find FV of each cash flow.
 - `Present value technique`: Uses `discounting` to find PV of each cash flow.
 ![[compounding_discounting.png]]
-
 ## BASIC PATTERNS OF CASH FLOWS:
 - Both cash outflows and inflows can be described by their patterns as follows:
 - `Single amount`: A lump-sum received today or at a future date.
@@ -17,48 +16,39 @@ To make the right investment decision, `cash flows` occurring `at different time
 - `Simple interest`: Is the amount of interest paid on the original principal amount only.
 - `Compound interest`: Consists of simple interest and interest-on-interest earned in a prior period.
 ###### FUTURE VALUE FORMULA/EQUATION (For LUMPSUM):
-- $FV_n = PV \times (1 + i)^n$ Where:
-- $FV_n$ = Future value of investment at the end of period n.
-- PV = Present value or original principal.
-- i = The interest rate per period, often a year, but can also be half-yearly, quarterly, monthly, weekly or daily. “r” is sometimes used.
-- n = The number of periods. Sometimes denoted as “t”.
+- $FV_n = PV \times (1 + i)^n$ 
 - $(1 + i)^n$ = The future value interest factor (FVIF). Given in tables.
 ###### COMPOUNDING MORE FREQUENTLY THAN ONCE A YEAR
 - The more frequently the interest payments are compounded, the larger the future value of R1 for a given period. The formula is:
 - ${FV}_n = {PV} x (1 + \frac{i}{m})^{nm}$ Where:
-	- m = The number of compounding periods in a year. How many compounding periods per year if interest is paid: Yearly, Half yearly?Quarterly? Monthly? Weekly? Daily?
+	- m = The number of compounding periods in a year. 
 	- Note that banks quote an interest rate (i) as a nominal annual rate called the Annual Percentage Rate (APR).
 - To calculate the `periodic interest rate`, divide the nominal interest rate or the APR by the number of compounding periods per year (m). $\text{Periodic interest} = \frac{APR}{m}$
 - To calculate the `total number of periods`, multiply the number of years by the number of compounding periods per year. $\text{total periods} = n\times m$
 ##### The more frequent the compounding, the bigger the future value of an amount.
-
 # Present Value & Discounting: Lump-sum
 - PRESENT VALUE (PV) MEASURES WHAT ONE OR MORE CASH FLOWS RECEIVED IN FUTURE ARE WORTH TODAY (AT TIME t=0):
-- The process of calculating the PV is called discounting and the interest rate “i” is known as the discount rate.
 - The PV is often called the discounted value of future cash payments.
 - THE PV FORMULA FOR A LUMP-SUM IS:
 - $PV = FV \times (1+i)^{-n}$ or $PV = FV \times (1+\frac{i}{m})^{-nm}$
 	- $(1+i)^{-n}$ or $(1+\frac{i}{m})^{-nm}$ gives you the present value interest factor (PVIF) provided in tables
 	- The PVIF is the reverse of the FVIF
-- PV Calculations show how much money you need today in order to achieve your financial goals in future. EXAMPLES.
+- PV Calculations show how much money you need today in order to achieve your financial goals in future.
 - The further in the future the money will be received, the less it is worth today. TVM. Also, as “n” gets larger, the PVIF gets smaller.
 - The higher the discount rate, the lower the present value of the money. As “i” gets larger, the PVIF gets smaller. 
-
 # Effective Annual Interest Rate (EAR)
 ANNUAL PERCENTAGE RATE (APR) AND PERIODIC RATE:
 - In financial markets, interest rates can be quoted in a variety of ways. Examples are:
 	- The annual percentage rate (APR) such as 12% per annum.
 	- The periodic interest rate (e.g., 1% per month).
-- The APR is the annualized interest rate using simple interest. It is annualized by multiplying the periodic rate by the number of compounding periods per year (APR = Periodic rate x m). How is the periodic interest rate calculated?
+- The APR is the annualized interest rate using simple interest. It is annualized by multiplying the periodic rate by the number of compounding periods per year (APR = Periodic rate x m). 
 - The law requires banks to disclose the APR or the quoted interest rate, which is a nominal rate.
-- Quoted interest rates are not comparable if the number of compounding periods per year are different. SOLUTION?
-- The effective annual interest rate (EAR) enables us to compare “apples with apples” and make the correct financial decision.22
+- Quoted interest rates are not comparable if the number of compounding periods per year are different.
 - EAR is the annual interest rate that takes compounding into account. It is the true cost of borrowing or actual return on an investment. 
 - The formula for the EAR: $\text{EAR} = (1 +\frac{\text{APR}}{m})^m – 1$
-
 # Annuities
 - Equally spaced level stream of fixed cash flows for a limited period of time.
-- `Cash Outflows`: Car & House loan, House, Education, Holiday, Saving for retirement. Watch out for Inflation!!
+- `Cash Outflows`: Car & House loan, House, Education, Holiday, Saving for retirement.
 - `Cash Inflows`: Retirement annuity from pension fund or a purchased retirement annuity from financial services companies.
 #### Ordinary Annuity
 The cash payments (investments made) / receipts occur at the END of each period.
@@ -78,7 +68,6 @@ $$
 $$
 PVA_{Ord} = I \times \left [ \frac{(1 - (1+ i/m)^{-n\times m}}{i / m}\right ]
 $$
-Present Value of an Ordinary Annuity (PVA)
 #### Annuity Due
 The cash payments (investments made) / receipts occur at the BEGINNING of each period.
 - There is no relationship between `Future Value Interest Factor of an Annuity` (`FVIFA`) and `Present Value Interest Factor of an Annuity` (`PVIFA`)
@@ -92,8 +81,6 @@ PVA_{Due} = I \times \left [ \frac{(1 - (1+ i/m)^{-n\times m}}{i / m}\right ] \t
 $$
 I = instalment (cash payment / investment)
 i = interest rate per period
-n = number of years
-m = number of compounding periods
 # Perpetuities
 #### Characteristics of Perpetuities
 - Perpetuity is an annuity that has an indefinite lifespan.
@@ -107,7 +94,6 @@ $$
 Where:
 - C = the constant amount received at the end of each period.
 - r = the constant rate of return on the perpetuity.
-
 ### Valuation of an Ordinary share in a company
 PV of an ordinary share ($P_0$ ) = $\frac{\text{Total Dividend}}{\text{Required rate of return}}$
 - Dividend = Distribution of part of a company’s ANNUAL Net profits AFTER TAX on a semi-annual (Interim) or/and annual basis (Final) .

@@ -17,7 +17,6 @@ There are few reasons for this:
 	-  Maintenance is difficult when no income is earned
 	-  Therefore plan for standard of living
 ### Do retirement investments differ from other investments
-Refer to Module 4
 Retirement planning differs in two aspects from other investments:
 -  Retirement savings are long term in nature:
 	-  Less liquid investments
