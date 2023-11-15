@@ -1,29 +1,16 @@
 # What is Tax?
-- Regulated by Law - Income Tax Act, No. 58 of 1962
-- Legally enforceable and Compulsory
-- Failure to comply with Tax legislation can lead to penalties, interest charges on a monthly basis, prosecution even jail / imprisonment.
-- Tax avoidance – legal means to reduce tax liability through sound administration and planning of financial affairs
-- Tax evasion - illegal and can lead to prosecution
-- Tax legislation changes constantly on an annual basis
-- Tax must be equitable
-- Tax must be certain
-- Cost effective to collect - SARS
+- Levies imposed by the state on its citizens and those who live or operate within its borders. 
 ## Direct taxes 
 - collected by state (paid directly to SARS) such as personal and company income taxes, capital gains tax, estate duty and levied on:
 	- Individuals (see tax tables on page )
 	- Companies (28%,27%)
 ## Indirect taxes
 - collected by business on behalf of the state:
-	- Value Added Tax (VAT AT 15 %) (VAT OUTPUT AND VAT INPUT) (check your till slips)
+	- Value Added Tax (VAT AT 15 %) (VAT OUTPUT AND VAT INPUT) 
 	- Petrol
-	- Sin Taxes (Alcohol and Tobacco) - Excise
-	- Transfer duties on property sales (see Residential property module)
+	- Sin Taxes (Alcohol and Tobacco)
+	- Transfer duties on property sales
 	- Import duties
-## National Treasury
-- Based in Pretoria manages finance of country
-- Initiates new Tax legislation and changes to tax rates
-## South African Revenue Services (SARS)
-- Autonomous state body to ensure compliance with Income Tax Act & collects taxes
 # Difference between Income and Capital
 - Taxes affecting individuals DIRECTLY are Income tax and Capital Gains Tax (CGT).
 - Capital gains or losses seen to be gains or losses on disposal of assets such as house, car or shares provided the seller does not make a living from it.
