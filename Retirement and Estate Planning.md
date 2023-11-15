@@ -53,8 +53,6 @@ Retirement planning differs in two aspects from other investments:
 -  Defined contribution -  Asset mangers manage the monthly pension contributions of employees
 -  Employees have choices in the different funds as at UCT:
 -  So the employees eventual value of the retirement fund depends on where he invests and the returns he earns.
--  Page 10 shows the returns earned by the different categories of Defined
-Contribution funds at UCT. 
 #### The impact of changing employment on your pension or provident fund
 -  Transferring accrued benefits to the fund of your new employer (preferred and dependent on age)
 -  Transferring the funds to a retirement annuity fund (only withdraw at 55 and there is tax benefit)

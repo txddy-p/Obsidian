@@ -93,14 +93,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FTX2000S.md",
+                "file": "Saving Money and Managing Credit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retirement and Estate Planning.md",
+                "file": "Saving Money and Managing Credit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retirement and Estate Planning.md",
+                "file": "Saving Money and Managing Credit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retirement and Estate Planning.md"
+                "file": "Saving Money and Managing Credit.md"
               }
             }
           },
@@ -266,14 +266,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "32d851f2c5825f79",
+  "active": "f4c4bcdd74d610a6",
   "lastOpenFiles": [
-    "FTX2000S.md",
-    "Saving Money and Managing Credit.md",
-    "Time Value of Money.md",
     "Tax Planning.md",
-    "UCT.md",
+    "Saving Money and Managing Credit.md",
     "Collective Investment Schemes.md",
+    "FTX2000S.md",
+    "Retirement and Estate Planning.md",
+    "Time Value of Money.md",
+    "UCT.md",
     "4th Year.md",
     "Books.md",
     "readme.md",
@@ -282,7 +283,6 @@
     "C programming.md",
     "EEE3090F.md",
     "EEE3094S.md",
-    "Retirement and Estate Planning.md",
     "EEE3099S.md",
     "Block diagrams.md",
     "FTX2000S/CGT_calc.png",

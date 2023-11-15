@@ -9,7 +9,7 @@
 		- A fixed interest rate stays the same throughout the term of the loan (or deposit in the case of savings). 
 		- Floating interest rates are more unpredictable, and can change both up and down throughout the term of the loan or deposit. Floating interest rates are based on some reference rate, which in South Africa is normally the repo(repurchase) rate. 
 - The repo rate (set by SARB), is the rate at which it lends to commercial banks. This rate, which is reconsidered quarterly, is  related to inflation and inflationary expectations.
-- The prime rate (current in South Africa is 11.75%), which is the lowest rate at which banks lend to their customers (this being available only to the very best, lowest-risk customers). The prime rate will always be a few percentage points higher (about 3.5%) than the repo rate (currently at 8.25%.
+- The prime rate (current in South Africa is 11.75%),
 # Savings
 There are many savings vehicles available, including bank deposits, money market funds,
 unit trusts and the repayment of debts (especially mortgages).
@@ -29,7 +29,7 @@ unit trusts and the repayment of debts (especially mortgages).
 # Debt and credit
 - The worst reason for borrowing is to spend on short-term things that soon lose their value, such as holidays or clothing. 
 #### Bad reasons
-- `Matching maturities` (life of assets with period of loan: see page 7)
+- `Matching maturities`
 - `Spend on short term items that lose value quickly`
 - `Keeping up with Jones / neighbours`
 ##### Consequencies of excessive debt
@@ -58,7 +58,7 @@ The concept of financial leverage (also known as “financial gearing”) refers
 	- Remember A = E + L
 	- Evaluate the quality & liquidity (conversion to cash) of assets
 #### Collateral (security) quality and type
-- Surety very risky see page 11
+- Surety very risky
 #### Character
 - Borrower has moral, ethical intention to pay back interest & loan amount
 - His / her Credit history will provide some indication
@@ -66,7 +66,7 @@ The concept of financial leverage (also known as “financial gearing”) refers
 - Credit references relating to past debt
 - Common sense / financial condition 
 ## Types of Credit Structures
-1. `Non-instalment credit`. Lump-sum repayment. This usually involves 
+1. `Non-instalment credit`. Lump-sum repayment.
 2. `Instalment credit`. Lender retains ownership of financed goods until final payment is made
 3. `Revolving credit`. 
 	- Common example is a credit card
@@ -119,6 +119,9 @@ without thinking
 $$
 C = \frac{PVA \times r}{1 - \left [ \frac{1}{(1+r)^t} \right ]}
 $$
+$$
+C = \frac{PVA \times \frac{i}{m}}{1 - \left [ {(1+\frac{i}{m})^{-n \times m}} \right ]}
+$$
 ##### Link between term and monthly payment
 - Lower instalment over longer period;
 - Cost associated to paying over a longer period;
@@ -146,7 +149,6 @@ nxm  = 4x2 = 8 periods
 ##### Debt to income ratios
 - The `debt to income ratio` is the `ratio of the payments made every month towards debt` (capital and interest payments) `divided by` `total monthly income`.
 - A related ratio is the `debt to disposable income`, which measures the percentage of income after the necessities have been paid that is spent on debt servicing. 
-- Both these numbers are very useful in getting an idea of how risky a specific debt situation is, and are often used by potential credit providers to assess the risk of credit applicants.
 $$
 \begin{align}
 \frac{\text{Payments towards debt}}{\text{Total monthly income}} \hspace{25mm}
