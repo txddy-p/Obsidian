@@ -112,7 +112,7 @@ Physical presence test (day test or time rule)
 - Applicable to people considered to be SA residents for tax purposes
 	- Out of SA for 330 days considered non-resident and not liable for tax
 	- Resident if in SA for more than 91 days – current tax year & previous 5 years
-	- +91 days for previous 5 years and resident 6 th (current tax year)
+	- +91 days for previous 5 years and resident $6^{th}$ (current tax year)
 	- and 915 days over the previous 5 years
 - Takes into account income earned even under barter system
 	- Benefit is the Market value of asset received (transaction where a service is performed in return for some item of value).

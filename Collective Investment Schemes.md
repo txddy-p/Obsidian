@@ -76,185 +76,77 @@ ASISA (Association of Savings and Investments – South Africa) sets rule for me
 - Money Market Fund – consists of investment in cash and short-term money market instruments.
 - General Equity Funds – consists of investments in a wide range of equities, but can also include bonds, cash, money market instruments and sometimes derivatives…depends on the mandate of the fund to the fund manager.
 - Bond Fund – Investment in government bonds (Gilts) and corporate bonds…mandate may specify either or both.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15
-COLLECTIVE INVESTMENTS
-- The names and classification of CIS typically reflect the type of underlying
-assets in the fund. Examples….
 - Hedge Fund – mostly in derivative instruments
 - Property unit trusts (PUTs) / Real Estate Investment Trusts (Reits)
-– commercial and industrial properties
-TYPES OF COLLECTIVE FUNDS
-16
-COLLECTIVE INVESTMENTS
+	- commercial and industrial properties
 - Alternative Classifications….
-- SA Funds – Invest in South African assets
-- Global Funds – Invests off-shore
-- Regional Fund – invests off-shore, but in a specific region e.g. Asia
-- Worldwide Funds – Invests in a mixture of domestic and off-shore
-funds
-TYPES OF COLLECTIVE FUNDS
-17
-COLLECTIVE INVESTMENTS
-HOW DOES A CIS WORK? – EX. OF UNIT TRUST
-ASISA FSB
-Pool of Funds
-Inv. A Inv. B Inv. C
-Stocks Bonds
-M Mkt Der.
-ASISA: Association of Savings
-and Investments SA
-FSB: Financial Services Board
-18
-COLLECTIVE INVESTMENTS
+	- SA Funds – Invest in South African assets
+	- Global Funds – Invests off-shore
+	- Regional Fund – invests off-shore, but in a specific region e.g. Asia
+	- Worldwide Funds – Invests in a mixture of domestic and off-shore funds
+### HOW DOES A CIS WORK? – EX. OF UNIT TRUST
+#### FEES
 Manager of the trust can charge…
-- Initial fees….this normally come off the amount invested. So if you invest a
-lump some of R10 000 and the fee is 1%, your investment would be R9 900
-and the fee R100.
-- Annual fees …generally ranges from 0.75% - 1.5% p.a. of the value of the
-portfolio. Example: if portfolio is worth R1Bn. If the fee is 1.2% p.a., …the
-fund is charged R1m per month in fees.
-- Performance fees …applicable if performance benchmarks are achieved.
-FEES
-19
-COLLECTIVE INVESTMENTS
-Manager of the trust can charge…
-- Portfolios charges …generally administrations fees
-- Switching Costs …if the investor wants to switch from one portfolio to
-another
-FEES
-20
-COLLECTIVE INVESTMENTS
+- `Initial fees` - this normally come off the amount invested. So if you invest a lump some of R10 000 and the fee is 1%, your investment would be R9 900 and the fee R100.
+- `Annual fees` - generally ranges from 0.75% - 1.5% p.a. of the value of the portfolio. Example: if portfolio is worth R1Bn. If the fee is 1.2% p.a., …the fund is charged R1m per month in fees.
+- `Performance fees` - applicable if performance benchmarks are achieved.
+- `Portfolios charges` - generally administrations fees
+- `Switching Costs` - if the investor wants to switch from one portfolio to another
+#### RETURNS
 Returns come from 2 sources
-- Capital Growth – These refer to changes in market value of the assets
-within the portfolio e.g. Share prices may increase/decrease; property
-prices may increase/decrease
-- Income – some assets may not enjoy capital growth, but may offer a return
-in the form of interest or dividends e.g. money - offers a return in the form
-of interest.
-- Assets such as shares may offer a return in the form of capital growth and
-income
-RETURNS
-21
-COLLECTIVE INVESTMENTS
-The yield of a unit trust is a measure of income produced by the unit trust as a
-percentage of the unit price e.g. add all the distributions per unit of the last 12
-months and express that as a percentage of the unit price.
+- Capital Growth – These refer to changes in market value of the assets within the portfolio e.g. Share prices may increase/decrease; property prices may increase/decrease
+- Income – some assets may not enjoy capital growth, but may offer a return in the form of interest or dividends e.g. money - offers a return in the form of interest.
+- Assets such as shares may offer a return in the form of capital growth and income
+#### YIELDS
+The yield of a unit trust is a measure of income produced by the unit trust as a percentage of the unit price e.g. add all the distributions per unit of the last 12 months and express that as a percentage of the unit price.
 Example:
-If the fund declares income semi-annually and has paid distributions of 5.48c
-and 5.68c per unit in the last 12 months and the current unit price is 223.25c
-per unit, the current yield would be…5%
-(5.48𝑐 + 5.68𝑐)
-223.25𝑐 × 100
-YIELDS
-22
-COLLECTIVE INVESTMENTS
-Capital Gains Tax
-- This is only applicable when the investment (or part thereof) is sold. 33.3% of the
-capital gain is subject to tax at the investors going rate of income tax e.g. if
-marginal tax is payable, the CGT will be 40% x 33.3% = 13.3%
+If the fund declares income semi-annually and has paid distributions of 5.48c and 5.68c per unit in the last 12 months and the current unit price is 223.25c per unit, the current yield would be…5%
+$$
+\frac{(5.48𝑐 + 5.68𝑐)}{223.25𝑐} \times 100
+$$
+### TAX
+#### Capital Gains Tax
+- This is only applicable when the investment (or part thereof) is sold. 33.3% of the capital gain is subject to tax at the investors going rate of income tax e.g. if marginal tax is payable, the CGT will be 40% x 33.3% = 13.3%
 - The first R30 000 of the gain is exempt from this tax.
-- Note that CGT inclusion rate for Unit trusts is much lower than other trusts and for
-companies …here it is 33.33%, in others it is 66.6%
-Dividend tax
+- Note that CGT inclusion rate for Unit trusts is much lower than other trusts and for companies …here it is 33.33%, in others it is 66.6%
+#### Dividend tax
 - Charged at a rate of 15% (as withholding tax)
-Tax on Interest
-- Charged as part of income…thresholds of R22800 and R33000 apply for people
-below and above 65years respectively
-TAX
-23
-COLLECTIVE INVESTMENTS
-- Market Risk – Risk that a particular market (e.g. bond market) may perform
-poorly
-- Market Timing Risk – Risk that you may get into or out of a market at the
-wrong time
-- Currency Risk –Risk that you may loose value on your investment and/or
-returns when converted back into your home currency (in the case of off-
-shore investments)
-- Geographic Risk – American, UK, German, Japanese markets etc. may not
-move in the same direction all the time…risk that you may be in the wrong
-market at the wrong time
+#### Tax on Interest
+- Charged as part of income…thresholds of R22800 and R33000 apply for people below and above 65years respectively
 RISKS
-24
-COLLECTIVE INVESTMENTS
-- Sector Risk – Different sector of the market perform well under different
-circumstances and at different times…think of risk associated with Gold
-Mining, Technology, Banking etc.
-- Fund Manager Risk – Skill of fund managers…Philosophy of fund managers
-- Organisational Risk – Risk that the CIS manager will go out of business or
-defraud the investors
-- Liquidity Risk – Liquidity of the cash component of the fund is the main
-concern. The mandate will stipulate a % liquidity at any point in time. Assume
-a mandate stipulates 25% liquidity…in a bear market this is fine…in a bull
-market this constitutes lost opportunities.
-RISKS
-25
-COLLECTIVE INVESTMENTS
-- Stock Picking Risk – Only relevant for funds that allow concentration of
-investments…if the fund manager is not good at stock picking value could be
-lost…note there may be little diversification.
-RISKS
-26
-COLLECTIVE INVESTMENTS
-Money Market Funds
-- Your invested funds are loaned out to institutions who need short term cash
-(this is a wholesale market)
-- They enjoy returns that are marginally higher than investments in a retail
-business
-- Investments must be interest bearing and must have a maturity of 90 days or
-less
+- `Market Risk` – Risk that a particular market (e.g. bond market) may perform poorly
+- `Market Timing Risk` – Risk that you may get into or out of a market at the wrong time
+- `Currency Risk` –Risk that you may loose value on your investment and/or returns when converted back into your home currency (in the case of off-shore investments)
+- `Geographic Risk` – American, UK, German, Japanese markets etc. may not move in the same direction all the time…risk that you may be in the wrong market at the wrong time
+- `Sector Risk` – Different sector of the market perform well under different circumstances and at different times…think of risk associated with Gold Mining, Technology, Banking etc.
+- `Fund Manager Risk` – Skill of fund managers…Philosophy of fund managers
+- `Organisational Risk` – Risk that the CIS manager will go out of business or defraud the investors
+- `Liquidity Risk` – Liquidity of the cash component of the fund is the main concern. The mandate will stipulate a % liquidity at any point in time. Assume a mandate stipulates 25% liquidity…in a bear market this is fine…in a bull market this constitutes lost opportunities.
+- `Stock Picking Risk` – Only relevant for funds that allow concentration of investments…if the fund manager is not good at stock picking value could be lost…note there may be little diversification.
+### ASSET ALLOCATION
+#### Money Market Funds
+- Your invested funds are loaned out to institutions who need short term cash (this is a wholesale market)
+- They enjoy returns that are marginally higher than investments in a retail business
+- Investments must be interest bearing and must have a maturity of 90 days or less
 - No limit to investment in government debt or bonds.
-ASSET ALLOCATION
-27
-COLLECTIVE INVESTMENTS
-Bonds and Gilts Funds
+#### Bonds and Gilts Funds
 - Could be government bonds
 - Could be corporate bonds
 - All these are interest bearing instruments
 - Often used in other funds (like the equity fund) to reduce volatility
-ASSET ALLOCATION
-28
-COLLECTIVE INVESTMENTS
-Equity Funds
+#### Equity Funds
 - Must have at least 80% of the assets in shares
 - Must have at least 70% of assets in South African Shares
-- For a specialist equity fund (e.g. Financial sector fund)…all investments must
-be in that sector.
+- For a specialist equity fund (e.g. Financial sector fund)…all investments must be in that sector.
 - Generally, limited investments are allowed in derivatives
-ASSET ALLOCATION
-29
-COLLECTIVE INVESTMENTS
-Fund of Funds
+### OTHER (TYPES) OF FUNDS
+#### Fund of Funds
 A unit trust that invests in other unit trust funds.
-Index funds
-Funds that are designed to tack a particular index such as the JSE All
-Share index.
-Multi-manager funds
+#### Index funds
+Funds that are designed to tack a particular index such as the JSE All Share index.
+#### Multi-manager funds
 A fund managed by more than one manager
-Exchange Traded Funds
-These are funds listed on the JSE and can be traded as shares or as a
-CIS.
-Hedge Funds
-Funds that use a wide range of trading strategies to hedge or protect the
-assets in their portfolios from downside risk.
-OTHER (TYPES) OF FUNDS
-30
+#### Exchange Traded Funds
+These are funds listed on the JSE and can be traded as shares or as a CIS.
+#### Hedge Funds
+Funds that use a wide range of trading strategies to hedge or protect the assets in their portfolios from downside risk.
