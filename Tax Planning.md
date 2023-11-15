@@ -183,13 +183,13 @@ Physical presence test (day test or time rule)
 |Step 8.|Less: Taxes previously paid by the taxpayer|||
 ||Tax liability owing to SARS / Owed by SARS|||
 
-|   |
-|---|
-|Step 1. Determine total Gross income (including Exempt income)|
-|Step 2. Deduct income that is tax-Exempt (not taxable) (Section 10)|
-|Step 3. Deduct allowable Tax Deductions (items that reduce the tax liability) (Section 11)|
-|Step 4. Add all taxable Capital gains after applying the Inclusion rate|
-|Step 5. Deduct S18A Donations|
-|Step 6. Apply tax rates to the Taxable income obtained|
-|Step 7. Deduct applicable Tax rebates (Primary and Medical)|
-|Step 8. Subtract Employees tax already paid from Step 7|
+|   | |
+|---|:---|
+|Step 1.| Determine total Gross income (including Exempt income)|
+|Step 2.| Deduct income that is tax-Exempt (not taxable) (Section 10)|
+|Step 3.| Deduct allowable Tax Deductions (items that reduce the tax liability) (Section 11)|
+|Step 4.| Add all taxable Capital gains after applying the Inclusion rate|
+|Step 5.| Deduct S18A Donations|
+|Step 6.| Apply tax rates to the Taxable income obtained|
+|Step 7.| Deduct applicable Tax rebates (Primary and Medical)|
+|Step 8.| Subtract Employees tax already paid from Step 7|
