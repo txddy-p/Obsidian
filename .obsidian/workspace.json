@@ -76,15 +76,19 @@
             }
           },
           {
-            "id": "7ba1b8f689bfd263",
+            "id": "32d851f2c5825f79",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4th Year.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collective Investment Schemes.md",
+                "file": "Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collective Investment Schemes.md",
+                "file": "Books.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collective Investment Schemes.md"
+                "file": "Books.md"
               }
             }
           },
@@ -245,19 +249,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "7ba1b8f689bfd263",
+  "active": "901dbe28f0528e4c",
   "lastOpenFiles": [
+    "readme.md",
+    "4th Year.md",
+    "asd.md",
+    "Programming.md",
+    "C programming.md",
     "EEE3090F.md",
     "Books.md",
     "EEE3094S.md",
     "Collective Investment Schemes.md",
-    "readme.md",
     "FTX2000S.md",
     "Retirement and Estate Planning.md",
-    "C programming.md",
     "Tax Planning.md",
     "EEE3099S.md",
     "Block diagrams.md",
@@ -285,13 +293,10 @@
     "3rd Year.md",
     "MEC2045S",
     "Python.md",
-    "4th Year.md",
     "Data Structures and Algorythims.md",
     "UCT.md",
     "3rd year/3094",
-    "Programming.md",
     "FTX2000S",
-    "3rd year/EEE3091F.md",
     "Coding/Python",
     "Coding",
     "3rd year/3090",
