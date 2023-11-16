@@ -87,7 +87,7 @@ It is the practice of pooling of the risk of individuals or entities and enables
 #### The Claims Process:
 - Keep documents (invoices or photographs) away from the home, showing: proof of ownership, original purchase price and date of purchase.
 - Immediately following the loss, notify your insurer and provide: a police report, case number and photographs of loss or damage.
-- The insurer sends an assessor to investigate the extend of your loss or damage. You can
+- The insurer sends an assessor to investigate the extend of your loss or damage.
 #### BUILDING INSURANCE: TIPS
 ##### Considerations When Obtaining Home-Owner’s Insurance:
 - Shop around for the deal that best suits your requirements.
@@ -119,7 +119,7 @@ It is the practice of pooling of the risk of individuals or entities and enables
 	- The make and nature of the car.
 	- Your risk profile.
 	- The risk profile of the environment in which vehicle is used or kept.
-	- The extend of the cover in the policy.
+	- The extent of the cover in the policy.
 ###### The insurable value of your vehicle may be based on:
 - The retail value – the average price a dealer would sell the car for in the market, given its age, condition and mileage.
 	- This gives you the highest insurable value, with higher premiums.
