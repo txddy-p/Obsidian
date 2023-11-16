@@ -63,8 +63,7 @@ The concept of financial leverage (also known as “financial gearing”) refers
 - Borrower has moral, ethical intention to pay back interest & loan amount
 - His / her Credit history will provide some indication
 - If the bank has a long credit history with you – more confident to approve / grant loan
-- Credit references relating to past debt
-- Common sense / financial condition 
+- Credit references relating to past debt and Common sense / financial condition 
 ## Types of Credit Structures
 1. `Non-instalment credit`. Lump-sum repayment.
 2. `Instalment credit`. Lender retains ownership of financed goods until final payment is made

@@ -1,11 +1,11 @@
-- Investment planning involves the evaluation and selection of appropriate investment assets based on the investor’s time horizon, risk tolerance, and financial goals. Example of financial goals are:
+- Involves the evaluation and selection of appropriate investment assets based on the investor’s time horizon, risk tolerance, and financial goals. Example of financial goals are:
 	- To be financially secure on retirement.
 	- To provide for children’s college/university education.
 	- To create a “rainy day” reserve.
 	- To acquire a new house or raise a deposit for a new house.
 - The term investment refers to either:
 	- The saving of current income for a period of time in exchange for a return that compensate for the opportunity cost of not spending now, risk and inflation; or
-	- Assets, goods or commodities purchased today to be used in future or at the time of crisis; or
+	- Assets, goods or commodities purchased today to be used in future/at the time of crisis; or
 	- Simply using money to make more money. 
 # Types of Investments
 - An individual can invest in any of the following investment types:
@@ -21,7 +21,7 @@
 - Alternative assets: commodities and precious metals (e.g. gold and silver). 
 # Reasons for Investments
 ###### WHY AM I INVESTING?
-The answer to this question will partly help determine what type of investment you should engage in.
+The answer to this question partly helps determine what type of investment you should engage in.
 - For income?
 	- means buying investments that are expected to give you regular returns without the principal increasing in value over time.
 	- At what stage in the FLC would this objective be a priority? Retirement or preseration stage
@@ -32,16 +32,13 @@ The answer to this question will partly help determine what type of investment y
 	- For example: Investment in shares with a low dividend yield where income is re-invested into the company to generate future growth.
 # Importance of IP
 ###### THE NEED FOR INVESTMENT PLANNING.
-Investment planning is important for the following reasons:
 - “failing to plan, planning to fail”.
-- Helps in know where you are and where you want to go in terms of your personal and family financial goals and helps you get there by helping you make wise choices regarding savings and investments.
+- Helps in knowing where you are and where you want to go in terms of your personal and family financial goals and helps you get there by helping you make wise choices regarding savings and investments.
 - Investment planning helps you know your goals, your budget and your risk tolerance.
-- Investment planning helps you avoid hazardous detours, such as get-rich-quick schemes, which may delay or stop your progress.
+- Helps avoid hazardous detours, like get-rich-quick schemes, which delay or stop your progress.
 - Investment planning controls an individual’s spending patterns and ensures that all your financial dreams become a reality.
 - Deciding how and what amount to invest ensures an individual of having sufficient money for the future. 
 # INVESTMENT RISK AND RETURNS
-- Return and risk are two important characteristics of any type of investment.
-- Generally, return and risk go hand in hand.
 - Most of the investment there is a trade-off between risk and return.
 - The greater the risk, the larger the return investors require as compensation for bearing that risk
 - `Higher risk` means less certainty or `greater volatility`.
@@ -51,7 +48,7 @@ Investment planning is important for the following reasons:
 	- The expected rate of price-rise (INFLATION). 
 ![[risk_vs_return.png]]
 # Investment Returns
-- A return is a benefit an investor receives (or earns) from an investment, expressed as a percentage and usually calculated over a period of one year.
+- A return is a benefit an investor receives from an investment, expressed as a percentage and usually calculated over a period of one year.
 - The total holding period return on an investment (also known as the return on shareholder investment - ROSI) consist of two components:
 	- Capital gains (or losses) - Arising from price changes.
 	- Investment income - Being dividends, interest, or rent received.
@@ -91,7 +88,6 @@ $$
 ###### Ponzi Schemes - Charles Ponzi
 - Returns not paid from profits earned, but from money deposited by subsequent investors.
 - Requires an increasing flow of funds from new investors to keep the scheme going.
-- Bernard Madoff - $64.8bn (Bernard L. Madoff Investment Securities). 
 # Investment Risk & Return
 ###### RISK-ADJUSTED RETURNS
 When evaluating the performance of investments or choosing the better performing investment:
