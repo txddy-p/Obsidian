@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Managing Financial Risk.md",
+                "file": "Retirement and Estate Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Managing Financial Risk.md",
+                "file": "Retirement and Estate Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Managing Financial Risk.md",
+                "file": "Retirement and Estate Planning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Managing Financial Risk.md"
+                "file": "Retirement and Estate Planning.md"
               }
             }
           },
@@ -269,10 +269,11 @@
   "active": "f4c4bcdd74d610a6",
   "lastOpenFiles": [
     "FTX2000S.md",
+    "Collective Investment Schemes.md",
+    "Managing Financial Risk.md",
     "Investment Planning.md",
     "Saving Money and Managing Credit.md",
     "Tax Planning.md",
-    "Collective Investment Schemes.md",
     "Retirement and Estate Planning.md",
     "Time Value of Money.md",
     "UCT.md",
@@ -288,7 +289,6 @@
     "Block diagrams.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
-    "Managing Financial Risk.md",
     "Linux.md",
     "Residential Property.md",
     "Journal.md",
