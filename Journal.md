@@ -5,5 +5,5 @@ Agenda for today
 - [x] Control get started for test
 
 02 October 2023
-- [ ] FTX test
-- [ ] FTX tut
+- [x] FTX test
+- [x] FTX tut

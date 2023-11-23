@@ -25,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal.md",
+                "file": "UCT.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c5d6da907185b7b4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -50,8 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cf3fc1828c01994",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,8 +214,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6fee80675b010f0a",
+  "active": "3cf3fc1828c01994",
   "lastOpenFiles": [
+    "UCT.md",
+    "4th Year.md",
+    "3rd Year.md",
+    "Journal.md",
+    "Linux.md",
     "Collective Investment Schemes.md",
     "Tax Planning.md",
     "Books.md",
@@ -228,8 +230,6 @@
     "Investment Planning.md",
     "Saving Money and Managing Credit.md",
     "Time Value of Money.md",
-    "UCT.md",
-    "4th Year.md",
     "readme.md",
     "asd.md",
     "Programming.md",
@@ -240,9 +240,7 @@
     "Block diagrams.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
-    "Linux.md",
     "Residential Property.md",
-    "Journal.md",
     "FTX2000S/10_year_mortgage.png",
     "FTX2000S/mortgage_variables.png",
     "FTX2000S/diversification_vs_risk.png",
@@ -255,7 +253,6 @@
     "3rd year/3099/pid_controller",
     "3rd year/3099/PID_controller",
     "3rd year/3099",
-    "3rd Year.md",
     "MEC2045S",
     "Python.md",
     "Data Structures and Algorythims.md",
