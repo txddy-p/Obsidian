@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02f873a904f12c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RegEx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "RegEx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "RegEx.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "RegEx.md"
               }
             }
           },
@@ -222,8 +234,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3cf3fc1828c01994",
+  "active": "02f873a904f12c64",
   "lastOpenFiles": [
+    "Python.md",
+    "Data Structures and Algorythims.md",
+    "RegEx.md",
     "Programming.md",
     "Youtube.md",
     "readme.md",
@@ -254,7 +269,6 @@
     "FTX2000S/diversification_vs_risk.png",
     "3rd year/3099/ticks_per_turn.png",
     "3rd year/3099/Pasted image.png",
-    "MEC2045S.md",
     "FTX2000S/portfolio_correlation.png",
     "FTX2000S/cumulative_returns.png",
     "3rd year/3099/pid_controller.png",
@@ -262,8 +276,6 @@
     "3rd year/3099/PID_controller",
     "3rd year/3099",
     "MEC2045S",
-    "Python.md",
-    "Data Structures and Algorythims.md",
     "3rd year/3094",
     "FTX2000S",
     "Coding/Python",
