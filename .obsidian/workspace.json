@@ -47,8 +47,12 @@
             "id": "3cf3fc1828c01994",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -128,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python.md"
+              }
             }
           },
           {
@@ -216,6 +224,9 @@
   },
   "active": "3cf3fc1828c01994",
   "lastOpenFiles": [
+    "Programming.md",
+    "Youtube.md",
+    "readme.md",
     "UCT.md",
     "4th Year.md",
     "3rd Year.md",
@@ -230,9 +241,6 @@
     "Investment Planning.md",
     "Saving Money and Managing Credit.md",
     "Time Value of Money.md",
-    "readme.md",
-    "asd.md",
-    "Programming.md",
     "C programming.md",
     "EEE3090F.md",
     "EEE3094S.md",

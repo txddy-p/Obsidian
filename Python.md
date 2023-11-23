@@ -170,11 +170,8 @@ The linux_interaction() function was not executed
 In Python, using the `else` statement, you can instruct a program to execute a certain block of code only in the absence of exceptions.
 
 ## Cleaning Up After Using `finally`
-
 Imagine that you always had to implement some sort of action to clean up after executing your code. Python enables you to do so using the `finally` clause.
-
 ![Untitled](try_except_else_finally.png)
-
 ```python
 try:
     linux_interaction()
@@ -189,14 +186,11 @@ else:
 finally:
     print('Cleaning up, irrespective of any exceptions.')
 ```
-
 In the previous code, everything in the `finally` clause will be executed. It does not matter if you encounter an exception somewhere in the `try` or `else` clauses. Running the previous code on a Windows machine would output the following:
-
 ```bash
 Function can only run on Linux systems.
 Cleaning up, irrespective of any exceptions.
 ```
-
 # Functions
 ```python
 def my_func(*args): #*args means a list input
@@ -212,62 +206,46 @@ def my_fxn(name: str, age: int): # here you can set the argument type
 	# do something
 	return #something or nothing
 ```
-
 For the last function `name: str` this doesn't throw errors when you mess up the data type but could cause problems later.
-
 ### Docstring
 The first string after the function is called the Document string or [Docstring](https://www.geeksforgeeks.org/python-docstrings/) in short. This is used to describe the functionality of the function. The use of docstring in functions is optional but it is considered a good practice.
-
 ### Nested Functions
 functions can be nested, this is done in order to protect them from everything happening outside
 More research needed here
-
 ### Built in functions
 I'd say the more you use them the more you'll remember them.
-
 # Lists, Tuples, Sets, Dictionaries
 All of them are mutable except tuples
-
 ### Applications of List, Set, Tuple, and Dictionary
-
 **List:**
 - Used in JSON format
 - Useful for Array operations
 - Used in Databases
-
 **Tuple:**
 - Used to insert records in the database through SQL query at a time.Ex: (1.’sravan’, 34).(2.’geek’, 35)
 - Used in parentheses checker
-
 **Set:**
 - Finding unique elements
 - Join operations
-
 **Dictionary:**
 - Used to create a data frame with lists
 - Used in JSON
-
 So basically a set uses hashtables as its underlying data structure.
-
 # Collections Counter
 can be quickly used to convert a list with repeating items into a dictionary. Seems a very useful module so look into it
 ```python
 from collections import Counter
 dict(Counter(list))
 ```
-
 # [[Data Structures and Algorythims]]
-
+# ![[RegEx]]
 # RegEx
 Let's start with use-cases because I couldn't get myself into this. Remember that password generator you wanted to make, instead of having a dictionary or list to keep track of all the characters you can just use RegEx with a pattern. I take it you're sold now hey???
-
 ```python
 import re #must be imported to be used
 re.match(pattern, string, flags=0) # pattern is the thing you're looking for
 ```
-
 The re.search() method takes a regular expression pattern and a string and searches for that pattern within the string. If the search is successful, search() returns a match object or None otherwise. Therefore, the search is usually immediately followed by an if-statement to test if the search succeeded, as shown in the following example which searches for the pattern 'word:' followed by a 3 letter word (details below):
-
 #### `|` character
 can be used to present a choice in terms of a regex. `love|like` will match `I love lemonade` or `I like lemonade`
 
