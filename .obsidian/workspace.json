@@ -61,7 +61,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RegEx.md",
+                "file": "100 days of Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd14fa3da83e103a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0be27fe29c4d0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RegEx.md",
+                "file": "100 days of Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RegEx.md",
+                "file": "100 days of Code.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RegEx.md"
+                "file": "100 days of Code.md"
               }
             }
           },
@@ -236,10 +256,12 @@
   },
   "active": "02f873a904f12c64",
   "lastOpenFiles": [
+    "2024.md",
+    "100 days of Code.md",
+    "Programming.md",
+    "RegEx.md",
     "Python.md",
     "Data Structures and Algorythims.md",
-    "RegEx.md",
-    "Programming.md",
     "Youtube.md",
     "readme.md",
     "UCT.md",
@@ -260,10 +282,8 @@
     "EEE3090F.md",
     "EEE3094S.md",
     "EEE3099S.md",
-    "Block diagrams.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
-    "Residential Property.md",
     "FTX2000S/10_year_mortgage.png",
     "FTX2000S/mortgage_variables.png",
     "FTX2000S/diversification_vs_risk.png",

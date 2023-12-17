@@ -7,3 +7,4 @@ These are my programming notes, these are catered to my understanding lol
 [[C programming]] comming soon
 
 [[Javascript]] also coming soon
+[[100 days of Code]]
