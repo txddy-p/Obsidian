@@ -1,2 +1,10 @@
 I commit to the 100 days of code
-# Day 1: Hello World 17/12/23
+# day 3
+```python
+myname = "Txddy"
+print("Hello", myname, "!")
+```
+prints out, it automatically adds the spaces
+```bash
+Hello Txddy !
+```
