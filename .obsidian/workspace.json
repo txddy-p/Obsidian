@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024.md",
+                "file": "Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,13 +134,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4f9fc6d79a6ccb35",
@@ -156,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 days of Code.md",
+                "file": "Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 days of Code.md",
+                "file": "Programming.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 days of Code.md"
+                "file": "Programming.md"
               }
             }
           },
@@ -222,7 +220,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -246,9 +246,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "02f873a904f12c64",
+  "active": "c0be27fe29c4d0df",
   "lastOpenFiles": [
     "2024.md",
+    "Untitled.md",
+    "Block diagrams.md",
     "100 days of Code.md",
     "Programming.md",
     "RegEx.md",
@@ -272,8 +274,6 @@
     "Time Value of Money.md",
     "C programming.md",
     "EEE3090F.md",
-    "EEE3094S.md",
-    "EEE3099S.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
     "FTX2000S/10_year_mortgage.png",
