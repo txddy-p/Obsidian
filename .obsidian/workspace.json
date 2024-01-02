@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Iterators.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "Iterators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "Iterators.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "Iterators.md"
               }
             }
           },
@@ -248,8 +248,9 @@
   },
   "active": "c0be27fe29c4d0df",
   "lastOpenFiles": [
-    "RegEx.md",
     "Python.md",
+    "Iterators.md",
+    "RegEx.md",
     "Programming.md",
     "2024.md",
     "Untitled.md",
@@ -273,7 +274,6 @@
     "Saving Money and Managing Credit.md",
     "Time Value of Money.md",
     "C programming.md",
-    "EEE3090F.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
     "FTX2000S/10_year_mortgage.png",
