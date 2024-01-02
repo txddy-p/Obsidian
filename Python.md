@@ -239,3 +239,4 @@ dict(Counter(list))
 ```
 # [[Data Structures and Algorythims]]
 # [[RegEx]]
+# [[Iterators]]
