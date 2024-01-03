@@ -241,3 +241,5 @@ dict(Counter(list))
 # [[RegEx]]
 # [[Iterators]]
 # [[Decorators]]
+# [[Lambdas]]
+

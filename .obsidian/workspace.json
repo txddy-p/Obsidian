@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decorators.md",
+                "file": "Lambdas.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decorators.md",
+                "file": "Lambdas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decorators.md",
+                "file": "Lambdas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decorators.md"
+                "file": "Lambdas.md"
               }
             }
           },
@@ -249,6 +249,7 @@
   "active": "c0be27fe29c4d0df",
   "lastOpenFiles": [
     "Python.md",
+    "Lambdas.md",
     "Decorators.md",
     "Iterators.md",
     "RegEx.md",
@@ -273,7 +274,6 @@
     "Managing Financial Risk.md",
     "Investment Planning.md",
     "Saving Money and Managing Credit.md",
-    "Time Value of Money.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
     "FTX2000S/10_year_mortgage.png",
