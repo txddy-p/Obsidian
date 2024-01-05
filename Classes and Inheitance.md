@@ -17,6 +17,13 @@ class Parent:
 
 class Child(Parent):
     pass
+# Multi inheritance
+class Child(Parent1, Parent2, Parent3):
+    <statement-1>
+    .
+    .
+    .
+    <statement-N>
 ```
 - child classes inherit attributes from their parent classes and can override or extend those attributes
 - 

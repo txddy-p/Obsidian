@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes and Inheitance.md",
+                "file": "100 days of Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes and Inheitance.md",
+                "file": "100 days of Code.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes and Inheitance.md"
+                "file": "100 days of Code.md"
               }
             }
           },
@@ -246,10 +246,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c0be27fe29c4d0df",
+  "active": "02f873a904f12c64",
   "lastOpenFiles": [
-    "Python.md",
     "Classes and Inheitance.md",
+    "Python.md",
     "Lambdas.md",
     "Decorators.md",
     "Iterators.md",
