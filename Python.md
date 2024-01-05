@@ -242,4 +242,5 @@ dict(Counter(list))
 # [[Iterators]]
 # [[Decorators]]
 # [[Lambdas]]
+# [[Classes and Inheitance]]
 
