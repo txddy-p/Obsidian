@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UCT.md",
+                "file": "EEE4114F.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 days of Code.md",
+                "file": "EEE4114F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 days of Code.md",
+                "file": "EEE4114F.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 days of Code.md"
+                "file": "EEE4114F.md"
               }
             }
           },
@@ -246,8 +246,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "02f873a904f12c64",
+  "active": "70f61a13e5151ac1",
   "lastOpenFiles": [
+    "UCT.md",
+    "EEE4114F.md",
+    "100 days of Code.md",
     "Classes and Inheitance.md",
     "Python.md",
     "Lambdas.md",
@@ -258,11 +261,9 @@
     "2024.md",
     "Untitled.md",
     "Block diagrams.md",
-    "100 days of Code.md",
     "Data Structures and Algorythims.md",
     "Youtube.md",
     "readme.md",
-    "UCT.md",
     "4th Year.md",
     "3rd Year.md",
     "Journal.md",
@@ -273,7 +274,6 @@
     "Retirement and Estate Planning.md",
     "FTX2000S.md",
     "Managing Financial Risk.md",
-    "Investment Planning.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
     "FTX2000S/10_year_mortgage.png",
