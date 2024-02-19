@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "144a4dd1806e76fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tax Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CML4607F.md",
+                "file": "Tax Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CML4607F.md",
+                "file": "Tax Planning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CML4607F.md"
+                "file": "Tax Planning.md"
               }
             }
           },
@@ -258,10 +270,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "89f1d3d0fe78cead",
+  "active": "144a4dd1806e76fa",
   "lastOpenFiles": [
-    "UCT.md",
+    "FTX2000S.md",
+    "FTX2000S/10_year_mortgage.png",
     "CML4607F.md",
+    "UCT.md",
     "Classes and Inheitance.md",
     "EEE4114F.md",
     "100 days of Code.md",
@@ -285,10 +299,8 @@
     "Tax Planning.md",
     "Books.md",
     "Retirement and Estate Planning.md",
-    "FTX2000S.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
-    "FTX2000S/10_year_mortgage.png",
     "FTX2000S/mortgage_variables.png",
     "FTX2000S/diversification_vs_risk.png",
     "3rd year/3099/ticks_per_turn.png",
