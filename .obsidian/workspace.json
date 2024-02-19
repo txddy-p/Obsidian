@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89f1d3d0fe78cead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CML4607F.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEE4114F.md",
+                "file": "CML4607F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEE4114F.md",
+                "file": "CML4607F.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEE4114F.md"
+                "file": "CML4607F.md"
               }
             }
           },
@@ -246,12 +258,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "70f61a13e5151ac1",
+  "active": "89f1d3d0fe78cead",
   "lastOpenFiles": [
     "UCT.md",
+    "CML4607F.md",
+    "Classes and Inheitance.md",
     "EEE4114F.md",
     "100 days of Code.md",
-    "Classes and Inheitance.md",
     "Python.md",
     "Lambdas.md",
     "Decorators.md",
@@ -273,7 +286,6 @@
     "Books.md",
     "Retirement and Estate Planning.md",
     "FTX2000S.md",
-    "Managing Financial Risk.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
     "FTX2000S/10_year_mortgage.png",
