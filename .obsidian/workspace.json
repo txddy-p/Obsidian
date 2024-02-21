@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tax Planning.md",
+                "file": "EEE4120F.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tax Planning.md",
+                "file": "EEE4120F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tax Planning.md",
+                "file": "EEE4120F.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tax Planning.md"
+                "file": "EEE4120F.md"
               }
             }
           },
@@ -250,8 +250,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,10 +271,16 @@
   },
   "active": "144a4dd1806e76fa",
   "lastOpenFiles": [
+    "Final_Year/EEE4120F/golden_gate_bridge.png",
+    "Final_Year/EEE4120F/Screenshot from 2024-02-20 07-46-02.png",
+    "Final_Year/EEE4120F",
+    "Final_Year",
+    "UCT.md",
+    "EEE4120F.md",
+    "Tax Planning.md",
     "FTX2000S.md",
     "FTX2000S/10_year_mortgage.png",
     "CML4607F.md",
-    "UCT.md",
     "Classes and Inheitance.md",
     "EEE4114F.md",
     "100 days of Code.md",
@@ -296,9 +301,6 @@
     "Journal.md",
     "Linux.md",
     "Collective Investment Schemes.md",
-    "Tax Planning.md",
-    "Books.md",
-    "Retirement and Estate Planning.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
     "FTX2000S/mortgage_variables.png",
@@ -307,7 +309,6 @@
     "3rd year/3099/Pasted image.png",
     "FTX2000S/portfolio_correlation.png",
     "FTX2000S/cumulative_returns.png",
-    "3rd year/3099/pid_controller.png",
     "3rd year/3099/pid_controller",
     "3rd year/3099/PID_controller",
     "3rd year/3099",
@@ -315,8 +316,6 @@
     "3rd year/3094",
     "FTX2000S",
     "Coding/Python",
-    "Coding",
-    "3rd year/3090",
-    "3rd year"
+    "Coding"
   ]
 }
