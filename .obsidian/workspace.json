@@ -116,18 +116,6 @@
             }
           },
           {
-            "id": "b3d2e27f0c284b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5fcf9cc02b766f8e",
             "type": "leaf",
             "state": {
@@ -140,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -214,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "EEE4113F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "EEE4113F.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "EEE4113F.md"
               }
             }
           },
@@ -305,12 +293,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b3d2e27f0c284b9a",
+  "active": "af5984c89e624460",
   "lastOpenFiles": [
-    "EEE4113F.md",
-    "Untitled 1.md",
-    "conflict-files-obsidian-git.md",
     "EEE4120F.md",
+    "EEE4113F.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled 1.md",
     "google.com.md",
     "UCT.md",
     "CML4607F.md",
