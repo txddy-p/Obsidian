@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEE4113F.md",
+                "file": "EEE4120F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEE4113F.md",
+                "file": "EEE4120F.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEE4113F.md"
+                "file": "EEE4120F.md"
               }
             }
           },
@@ -293,10 +293,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "af5984c89e624460",
+  "active": "144a4dd1806e76fa",
   "lastOpenFiles": [
-    "EEE4120F.md",
     "EEE4113F.md",
+    "EEE4120F.md",
     "conflict-files-obsidian-git.md",
     "Untitled 1.md",
     "google.com.md",
