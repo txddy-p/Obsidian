@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b334b21842850462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IEEE thingy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "IEEE thingy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "IEEE thingy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "IEEE thingy.md"
               }
             }
           },
@@ -293,13 +305,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5fcf9cc02b766f8e",
+  "active": "b334b21842850462",
   "lastOpenFiles": [
+    "EEE4113F.md",
+    "readme.md",
+    "IEEE thingy.md",
     "Untitled 1.md",
     "EEE4120F.md",
-    "EEE4113F.md",
     "conflict-files-obsidian-git.md",
-    "google.com.md",
     "UCT.md",
     "CML4607F.md",
     "Final_Year/EEE4120F/golden_gate_bridge.png",
@@ -323,7 +336,6 @@
     "Block diagrams.md",
     "Data Structures and Algorythims.md",
     "Youtube.md",
-    "readme.md",
     "4th Year.md",
     "3rd Year.md",
     "FTX2000S/CGT_calc.png",
