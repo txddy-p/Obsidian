@@ -126,21 +126,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b334b21842850462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IEEE thingy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -214,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IEEE thingy.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IEEE thingy.md",
+                "file": "readme.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IEEE thingy.md"
+                "file": "readme.md"
               }
             }
           },
@@ -305,11 +293,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b334b21842850462",
+  "active": "5fcf9cc02b766f8e",
   "lastOpenFiles": [
-    "EEE4113F.md",
-    "readme.md",
     "IEEE thingy.md",
+    "readme.md",
+    "EEE4113F.md",
     "Untitled 1.md",
     "EEE4120F.md",
     "conflict-files-obsidian-git.md",
