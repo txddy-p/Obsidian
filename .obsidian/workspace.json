@@ -104,6 +104,16 @@
             }
           },
           {
+            "id": "46d9a98c8ad3263b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
             "id": "af5984c89e624460",
             "type": "leaf",
             "state": {
@@ -128,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -294,7 +304,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "144a4dd1806e76fa",
+  "active": "46d9a98c8ad3263b",
   "lastOpenFiles": [
     "4th_year/EEE4120F/domainDecomplec7.png",
     "4th_year/EEE4120F/Pasted image.png",
