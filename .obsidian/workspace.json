@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4f9fc6d79a6ccb35",
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "EEE4120F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "EEE4120F.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "EEE4120F.md"
               }
             }
           },
@@ -293,10 +294,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5fcf9cc02b766f8e",
+  "active": "144a4dd1806e76fa",
   "lastOpenFiles": [
-    "IEEE thingy.md",
+    "4th_year/EEE4120F/partitioned_memory.png",
+    "4th_year/EEE4120F/Pasted image.png",
+    "4th_year/EEE4120F/SMP.png",
+    "4th_year/EEE4120F",
+    "4th_year",
     "readme.md",
+    "IEEE thingy.md",
     "EEE4113F.md",
     "Untitled 1.md",
     "EEE4120F.md",
@@ -325,21 +331,16 @@
     "Data Structures and Algorythims.md",
     "Youtube.md",
     "4th Year.md",
-    "3rd Year.md",
     "FTX2000S/CGT_calc.png",
     "FTX2000S/Pasted image.png",
     "FTX2000S/mortgage_variables.png",
     "FTX2000S/diversification_vs_risk.png",
     "3rd year/3099/ticks_per_turn.png",
-    "3rd year/3099/Pasted image.png",
-    "FTX2000S/portfolio_correlation.png",
     "3rd year/3099/pid_controller",
     "3rd year/3099/PID_controller",
     "3rd year/3099",
     "MEC2045S",
     "3rd year/3094",
-    "FTX2000S",
-    "Coding/Python",
-    "Coding"
+    "FTX2000S"
   ]
 }
