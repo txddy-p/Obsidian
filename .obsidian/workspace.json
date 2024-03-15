@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEE4120F.md",
+                "file": "CML4607F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEE4120F.md",
+                "file": "CML4607F.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEE4120F.md"
+                "file": "CML4607F.md"
               }
             }
           },
@@ -304,8 +304,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "46d9a98c8ad3263b",
+  "active": "89f1d3d0fe78cead",
   "lastOpenFiles": [
+    "Week1 Lee.md",
+    "CML4607F.md",
     "4th_year/EEE4120F/domainDecomplec7.png",
     "4th_year/EEE4120F/Pasted image.png",
     "4th_year/EEE4120F/DomainDecomp.png",
@@ -316,7 +318,6 @@
     "4th_year/EEE4120F/SIMD.png",
     "4th_year/EEE4120F/SISD.png",
     "4th_year/EEE4120F/FlynsTaxonomy.png",
-    "4th_year/EEE4120F/memoryPartitioningTerm.png",
     "4th_year/EEE4120F",
     "4th_year",
     "readme.md",
@@ -326,7 +327,6 @@
     "EEE4120F.md",
     "conflict-files-obsidian-git.md",
     "UCT.md",
-    "CML4607F.md",
     "Final_Year/EEE4120F",
     "Final_Year",
     "Tax Planning.md",
