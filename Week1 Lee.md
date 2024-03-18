@@ -7,3 +7,8 @@ situation will cost R50 000. When Lee contacted the online supplier, she was tol
 	- I.e. what is the legal basis of the claim / problem (cause of action)?
 2. The correct avenue/route for remedying the dispute
 	- We say: which court, tribunal or body has ‘jurisdiction’?
+Let’s return to our scenario
+1. Into what legal category does the claim fall?
+2. Which law or laws apply?
+3. Which court, tribunal or body has jurisdiction?
+- Value of ADR if permissible/available?
