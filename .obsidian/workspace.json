@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEE4114F.md",
+                "file": "EEE4119F.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CML4607F.md",
+                "file": "EEE4119F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CML4607F.md",
+                "file": "EEE4119F.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CML4607F.md"
+                "file": "EEE4119F.md"
               }
             }
           },
@@ -304,10 +304,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "89f1d3d0fe78cead",
+  "active": "70f61a13e5151ac1",
   "lastOpenFiles": [
-    "Week1 Lee.md",
+    "EEE4119F.md",
+    "UCT.md",
+    "4th Year.md",
+    "EEE4114F.md",
     "CML4607F.md",
+    "Week1 Lee.md",
     "4th_year/EEE4120F/domainDecomplec7.png",
     "4th_year/EEE4120F/Pasted image.png",
     "4th_year/EEE4120F/DomainDecomp.png",
@@ -326,13 +330,11 @@
     "Untitled 1.md",
     "EEE4120F.md",
     "conflict-files-obsidian-git.md",
-    "UCT.md",
     "Final_Year/EEE4120F",
     "Final_Year",
     "Tax Planning.md",
     "FTX2000S.md",
     "Classes and Inheitance.md",
-    "EEE4114F.md",
     "100 days of Code.md",
     "Python.md",
     "Lambdas.md",
@@ -344,8 +346,6 @@
     "Untitled.md",
     "Block diagrams.md",
     "Data Structures and Algorythims.md",
-    "Youtube.md",
-    "4th Year.md",
     "3rd year/3099/pid_controller",
     "3rd year/3099/PID_controller",
     "3rd year/3099",
