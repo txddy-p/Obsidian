@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEE4119F.md",
+                "file": "CML4607F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEE4119F.md",
+                "file": "CML4607F.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEE4119F.md"
+                "file": "CML4607F.md"
               }
             }
           },
@@ -304,13 +304,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "70f61a13e5151ac1",
+  "active": "89f1d3d0fe78cead",
   "lastOpenFiles": [
+    "EEE4120F.md",
+    "CML4607F.md",
     "EEE4119F.md",
     "UCT.md",
     "4th Year.md",
     "EEE4114F.md",
-    "CML4607F.md",
     "Week1 Lee.md",
     "4th_year/EEE4120F/domainDecomplec7.png",
     "4th_year/EEE4120F/Pasted image.png",
@@ -328,7 +329,6 @@
     "IEEE thingy.md",
     "EEE4113F.md",
     "Untitled 1.md",
-    "EEE4120F.md",
     "conflict-files-obsidian-git.md",
     "Final_Year/EEE4120F",
     "Final_Year",
