@@ -1,7 +1,11 @@
 # Week 1
 Lee, on behalf of their employer (based in Cape Town), purchased equipment from an online supplier (head office in Gauteng). When the goods arrived, not only was the wrong amount delivered but several of the goods were damaged. Lee calculates that to rectify the
 situation will cost R50 000. When Lee contacted the online supplier, she was told to check the Terms & Conditions which had been agreed to when the order was placed. In terms of the Ts & Cs, the supplier takes no responsibility for goods damaged in transit, and any possible claims must be brought in Gauteng. Lee needs to find out what the law says about this situation and to understand the process and steps that need to be taken to remedy the loss.
-
+Cecile said something about IRAQ
+- <a style="color:red">I</a>dentify legal Problem
+- What are the legal <a style="color:red">R</a>equirements
+- <a style="color:red">A</a>pply legal requirements
+- Reach a <a style="color:red">C</a>onclusion
 ## What we need to determine:
 1. The correct legal category for the problem
 	- We call this the ‘cause of action’
@@ -13,6 +17,8 @@ Let’s return to our scenario
 2. Which law or laws apply?
 3. Which court, tribunal or body has jurisdiction?
 - Value of ADR if permissible/available?
+#### Answer
+1. The claim falls into Contract law 
 # Week 2
 ## Transactions made without consent
 ### Example.
