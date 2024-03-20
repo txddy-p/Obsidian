@@ -64,3 +64,7 @@ Use steps 1 – 6 to solve this problem question.
 4. Step 4: set out the applicable legal rules
 5. Step 5: apply the law.
 6. Step 6: conclude.
+## (d) MENTAL INCAPACITY ARISING FROM MENTAL ILLNESS OR INTOXICATION
+### Mental Illness - example
+Harry has been declared mentally ill by the High Court. The nature of his mental illness is that although, most of the time, he presents as mentally ill sometimes there are lucida intervalla i.e. moments when he is fully functioning as a sane adult.
+During one of these moments, Harry (unassisted) enters into a contract with Mikovhe in terms of which her purchases her old laptop.
